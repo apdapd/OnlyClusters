@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.235,C:\Users\APDistinct\Documents\RAD Studio\Projects\Project1PCH1.h=D:\RStudio\Matlab\OnlyClusters.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.532,=C:\Users\APDistinct\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.958,=C:\Users\APDistinct\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.079,=D:\RStudio\Matlab\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.758,D:\RStudio\Matlab\Unit1.cpp=D:\RStudio\Matlab\MainClass.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.179,C:\Users\APDistinct\Documents\RAD Studio\Projects\Project1.cbproj=D:\RStudio\Matlab\OnlyClusters.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.005,=C:\Users\APDistinct\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.758,D:\RStudio\Matlab\Unit1.h=D:\RStudio\Matlab\MainClass.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.590,C:\Users\APDistinct\Documents\RAD Studio\Projects\File1.cpp=D:\RStudio\Matlab\MainTest.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.537,=C:\Users\APDistinct\Documents\RAD Studio\Projects\File1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
